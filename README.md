@@ -16,7 +16,11 @@ Our goal is to develop an application so that we can integrate this service with
 
 # Social Media
 You can also check some activities on the following social pages:
+
 https://www.instagram.com/artratecampus/
+
 https://www.instagram.com/artrateacademy/
+
 https://www.youtube.com/channel/UC-F3UiKoVI4E9g0wRW9PISA
+
 https://twitter.com/ArtRateplatform
