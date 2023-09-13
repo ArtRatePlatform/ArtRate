@@ -13,3 +13,10 @@ Our goal is to develop an application so that we can integrate this service with
 "NFT Generator:"  This service generates artworks as a collection. The type and the format of the file is not important. Our Token Generator must be able to generate and convert digital arts into NFTs. There are some scenarios that must be considered that they depend on the file format of the artwork. The artist has to choose a scenario when generating a collection or the service chooses it automatically.
 
 "AI & Machine Learning:" Using different types of Machine Learning Algorithms and Technologies
+
+# Social Media
+You can also check some activities on the following social pages:
+https://www.instagram.com/artratecampus/
+https://www.instagram.com/artrateacademy/
+https://www.youtube.com/channel/UC-F3UiKoVI4E9g0wRW9PISA
+https://twitter.com/ArtRateplatform
